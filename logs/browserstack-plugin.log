@@ -1,0 +1,21 @@
+14:02:11.781 [ApplicationImpl pooled thread 268] INFO  c.b.l.BrowserStackRunExtension - junit
+14:02:11.781 [ApplicationImpl pooled thread 268] INFO  com.browserstack.utils.Helpers - null
+14:02:11.781 [ApplicationImpl pooled thread 268] INFO  c.b.l.BrowserStackRunExtension - Agent path: null
+14:05:14.008 [ApplicationImpl pooled thread 265] INFO  c.b.l.BrowserStackRunExtension - junit
+14:05:14.008 [ApplicationImpl pooled thread 265] INFO  com.browserstack.utils.Helpers - null
+14:05:14.009 [ApplicationImpl pooled thread 265] INFO  c.b.l.BrowserStackRunExtension - Agent path: null
+14:08:01.049 [ApplicationImpl pooled thread 241] INFO  c.b.l.BrowserStackRunExtension - junit
+14:08:01.049 [ApplicationImpl pooled thread 241] INFO  com.browserstack.utils.Helpers - null
+14:08:01.050 [ApplicationImpl pooled thread 241] INFO  c.b.l.BrowserStackRunExtension - Agent path: null
+14:09:42.018 [ApplicationImpl pooled thread 272] INFO  c.b.l.BrowserStackRunExtension - junit
+14:09:42.018 [ApplicationImpl pooled thread 272] INFO  com.browserstack.utils.Helpers - null
+14:09:42.019 [ApplicationImpl pooled thread 272] INFO  c.b.l.BrowserStackRunExtension - Agent path: null
+14:16:23.646 [ApplicationImpl pooled thread 284] INFO  c.b.l.BrowserStackRunExtension - junit
+14:16:23.646 [ApplicationImpl pooled thread 284] INFO  com.browserstack.utils.Helpers - null
+14:16:23.646 [ApplicationImpl pooled thread 284] INFO  c.b.l.BrowserStackRunExtension - Agent path: null
+14:32:18.128 [ApplicationImpl pooled thread 296] INFO  c.b.l.BrowserStackRunExtension - junit
+14:32:18.129 [ApplicationImpl pooled thread 296] INFO  com.browserstack.utils.Helpers - null
+14:32:18.129 [ApplicationImpl pooled thread 296] INFO  c.b.l.BrowserStackRunExtension - Agent path: null
+14:44:34.105 [ApplicationImpl pooled thread 316] INFO  c.b.l.BrowserStackRunExtension - junit
+14:44:34.105 [ApplicationImpl pooled thread 316] INFO  com.browserstack.utils.Helpers - null
+14:44:34.106 [ApplicationImpl pooled thread 316] INFO  c.b.l.BrowserStackRunExtension - Agent path: null
